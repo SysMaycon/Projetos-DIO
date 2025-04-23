@@ -28,6 +28,8 @@ O código está estruturado em funções que manipulam a lógica de cadastro e l
 ![alt text](<Captura de tela de 2025-04-23 15-22-49.png>)
 ![alt text](<Conta de armazenamento az.png>)
 ![alt text](Projetomain.png)
+![alt text](<Captura de tela de 2025-04-23 16-17-58.png>)
+![alt text](<Captura de tela_23-4-2025_161913_localhost.jpeg>)
 ## Insights e Possibilidades
 
 Durante o desenvolvimento deste projeto, aprendi várias coisas importantes:
